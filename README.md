@@ -37,6 +37,5 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikhsandzul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsandzul&layout=compact&theme=tokyonight"/>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ikhsandzul&theme=dark&border_radius=6&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
