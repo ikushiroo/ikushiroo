@@ -37,5 +37,5 @@
 
 <div align="center">
   
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ikhsandzul&theme=dark&border_radius=6&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ikushiroo&theme=dark&border_radius=6&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
 </div>
