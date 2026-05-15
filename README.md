@@ -15,7 +15,6 @@
 
 * 🤵 I'm a programmer from Indonesia, passionate about building cool, scalable systems.
 * 💻 I specialize in Web Development and am currently building **SaaS Hubs** (including multi-tenant POS, FNB, and SPP Online systems).
-* 🐧 My daily driver and development environment is **Arch Linux (CachyOS)**.
 * 🌱 I’m currently expanding my skills by learning **Golang**.
 * 🎮 In my spare time, my team and I develop simulator games using **Roblox Studio**.
 * ⚡ **Fun fact:** I love tech, games, and memes 👾
@@ -37,6 +36,6 @@
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MIkhsanDzul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIkhsanDzul&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IkhsanDzul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkhsanDzul&layout=compact&theme=tokyonight"/>
 </div>
